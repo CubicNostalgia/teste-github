@@ -26,3 +26,18 @@ ul, ol, li{
     border: 2.5px slategray;
 
 }
+.circulos {
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.circulos div{
+    width: 100px;
+    height: 100px;
+    background-color: darkorange;
+    border: 2.5px slategrey;
+    border-radius: 50%;
+}
