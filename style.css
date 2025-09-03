@@ -11,3 +11,18 @@ a{
 ul, ol, li{
     list-style: none;
 }
+.quadrados{
+    height: 100px;
+    width: 200vw;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.quadrados div{
+    width: 180px;
+    height: 360px;
+    background-color: aqua;
+    border: 2.5px slategray;
+
+}
