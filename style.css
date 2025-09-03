@@ -33,6 +33,7 @@ ul, ol, li{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 50%;
 }
 .circulos div{
     width: 100px;
